@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 
 ```python3 tiktokOSINT.py --username USERNAMEHERE --downloadProfilePic```
 
-- Replace `USERNAMEHERE` with the username, the @ in the username is optional.
+- Replace `zeshan9190` with the username, the @ in the username is optional.
 
 - `--downloadProfilePic` tells the tool to download the profile picture. 
 This argument is optional.
